@@ -6,7 +6,7 @@ var ver= "1.1.9";
 var calc= 2+1000;
 var calc2= 2+999;
 
-var masterStr = "111";
+var feature_1 = "f11";
 
 
 builder.Services.AddControllers();
