@@ -2,7 +2,7 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 
-var ver= "1.1.1";
+var ver= "1.1.9";
 var calc= 2+1000;
 
 builder.Services.AddControllers();
