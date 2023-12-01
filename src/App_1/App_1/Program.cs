@@ -9,6 +9,8 @@ var calc2= 2+999;
 
 string feature_300 = "New feature 300";
 
+string feature_1 = "New feature 1";
+
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
