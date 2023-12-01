@@ -4,6 +4,7 @@ var builder = WebApplication.CreateBuilder(args);
 
 var ver= "1.1.9";
 var calc= 2+1000;
+var calc2= 2+2;
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
