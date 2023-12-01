@@ -7,6 +7,7 @@ var calc= 2+1000;
 var calc2= 2+999;
 
 var feature_1 = "f11";
+var feature_2 = "f22";
 
 
 builder.Services.AddControllers();
