@@ -1,0 +1,10 @@
+src/App_1/.idea
+src/App_1/**/obj
+src/App_1/**/bin
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
