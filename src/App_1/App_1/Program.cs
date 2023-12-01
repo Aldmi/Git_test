@@ -4,7 +4,9 @@ var builder = WebApplication.CreateBuilder(args);
 
 var ver= "1.1.9";
 var calc= 2+1000;
-var calc2= 2+2;
+var calc2= 2+999;
+
+var feature_2 = "Super best code";
 
 string feature_1 = "New feature";
 
