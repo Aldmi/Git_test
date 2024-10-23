@@ -19,4 +19,7 @@ public class WeatherForecast
     
     
     public byte[]? HashCode { get; set; }
+    
+    public byte[]? HashCodeLarge { get; set; }
 }
+
