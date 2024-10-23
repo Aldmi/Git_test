@@ -14,6 +14,4 @@ public class WeatherForecast
     public string? MainStatus { get; set; }
 
     public string? Status { get; set; }
-    
-    public string? Description { get; set; }
 }
