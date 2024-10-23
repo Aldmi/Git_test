@@ -13,8 +13,4 @@ public class WeatherForecast
     public string? MainStatus { get; set; }
 
     public string? Status { get; set; }
-    
-    public byte[]? HashCode { get; set; }
-
-     public string? TypeName { get; set; }
 }
