@@ -10,15 +10,11 @@ public class WeatherForecast
 
     public string? Summary { get; set; }
 
-
     public string? MainStatus { get; set; }
 
     public string? Status { get; set; }
     
-    public string? Description { get; set; }
-    
-    
     public byte[]? HashCode { get; set; }
-    
-    public byte[]? HashCodeLarge_222 { get; set; }
+
+     public string? TypeName { get; set; }
 }
